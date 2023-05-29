@@ -1,0 +1,3 @@
+name and surname  /birth date     /passport number /phone number  /check-in      /check-out   / type of room /amount  /room num/
+Viktor Hraboviuk  / 12.12.2222    / 123123         / 380660676712 / 12.12.1222   / 12.12.2021 / Lux          / 1200   / 2      / 
+Alex Koval        / 12.12.2004    / 12312          / +380211321213 / 12.12.2002  / 12.12.2004 / Lux          / 1300   / 1      / 
