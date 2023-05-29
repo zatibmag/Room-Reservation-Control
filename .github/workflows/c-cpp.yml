@@ -14,8 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: configure
-      run: cmake .  # Змініть цю команду на відповідну для виконання конфігурації вашого проекту
+      run: cmake .  
     - name: build
-      run: cmake --build . --config Release  # Змініть цю команду на відповідну для виконання команди збірки вашого проекту
+      run: cmake --build . --config Release  
     - name: run-tests
-      run: ctest -C Release --output-on-failure  # Змініть цю команду на відповідну для виконання команди запуску тестів
+      run: ctest -C Release --output-on-failure  
